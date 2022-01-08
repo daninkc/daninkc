@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @daninkc (Daniela Elen Williams, or Dani for friends)
+- 👀 I’m interested in frontend, backend and everything web.
+- 🌱 I’m currently learning backend, data structures, algorithms and design patterns. 
+- 💞️ I’m looking to collaborate on web projects with passion!
+- 📫 How to reach me: if you need my help, email me at daniela.elen.williams@gmail.com without hesitation.
